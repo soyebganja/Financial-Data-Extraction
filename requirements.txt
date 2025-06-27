@@ -8,8 +8,8 @@ numpy>=1.21.0
 # Text Processing and Regular Expressions
 regex>=2022.1.18
 
+langchain
 langchain-groq
-
 
 # Optional: LLM Integration Dependencies
 # Uncomment based on your chosen LLM provider
@@ -34,6 +34,6 @@ langchain-groq
 # cohere>=4.0.0
 
 # Additional Utilities (Optional)
-# python-dotenv>=0.19.0  # For environment variables
+python-dotenv>=0.19.0  # For environment variables
 # requests>=2.28.0       # For HTTP requests
 # json5>=0.9.0          # Enhanced JSON parsing
