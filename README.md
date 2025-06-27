@@ -2,7 +2,7 @@
 
 A powerful Streamlit web application that uses Large Language Models (LLM) to extract structured financial data from text paragraphs. The application intelligently identifies and extracts key financial metrics including Revenue and Earnings Per Share (EPS) with their estimated and actual values.
 
-![Screenshot from 2025-06-27 17-04-08](https://github.com/user-attachments/assets/6c48ed62-4f4b-410b-8380-5c71f3ba22d2)
+![Screenshot from 2025-06-27 20-28-01](https://github.com/user-attachments/assets/960426ed-b337-4fd6-9546-456973d42f34)
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
