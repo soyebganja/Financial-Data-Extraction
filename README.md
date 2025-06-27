@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Soyeb Ganja** - [GitHub Profile](https://github.com/soyebganja)
+**Soyeb Ganja** - [LinkedIN Profile](https://linkedin.com/in/soyeb-ganja), [GitHub Profile](https://github.com/soyebganja)
 
 Project Link: [https://github.com/soyebganja/Financial-Data-Extraction](https://github.com/soyebganja/Financial-Data-Extraction)
 
